@@ -1,0 +1,9 @@
+Package: ibus-m17n-ne-itrans
+Version: 0.1-0
+Section: base
+Priority: optional
+Architecture: amd64
+Depends: ibus (>= 1.5.11-1ubuntu2), ibus-m17n (>= 1.3.4-4)
+Maintainer: Prasanna Suman <prasanna.tux@gmail.com>
+Description: Nepali Input Method using transliteration
+ This project is based on hi-itrans.mim from ibus-m17n package.
