@@ -5,8 +5,10 @@ popular platforms.
 
 ## ne-itrans
 
-ne-itrans implements [ITRANS](https://en.wikipedia.org/wiki/ITRANS) inspired input method for Nepali language across varius
+`ne-itrans implements` [ITRANS](https://en.wikipedia.org/wiki/ITRANS) inspired input method for Nepali language across varius
 linux platforms. It depends on `ibus` and `ibus-m17n` projects.
+
+`ne-itrans` is based on `hi-itrans.mim` from `ibus-m17n` package.
 
 ### Installation
 
